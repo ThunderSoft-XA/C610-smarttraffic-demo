@@ -1,0 +1,1 @@
+This video is used to show the local license plate recognition process. No camera is used to get the license plate picture. In the command line, the specified test process will be completed after executing the corresponding command and the test result will be displayed.
