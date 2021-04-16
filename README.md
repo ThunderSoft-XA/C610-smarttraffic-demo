@@ -8,7 +8,7 @@ The programe is build in x86 host with across complier tool and has been tested 
 
 <center>Qualcomm® QCS610 SoC Development board</center>
 
-![Turbox C610  Development board](./res/c610.png)
+![Turbox C610  Development board](./res/QCS610.png)
 
 ## Materials and Tools used for the project
 
@@ -20,13 +20,22 @@ Except for the development board,The following hardware materials are also neede
 
 using the usb line to develop on Qualcomm® QCS610 SoC development board.
 
-![usb line](https://github.com/ThunderSoft-XA/C610-smarttraffic-demo/tree/master/res/usb.png )
+![usb line](./res/usb.png )
 
 * Charger
 
 Direct power supply for Qualcomm® QCS610 SoC development board
 
-![charger](https://github.com/ThunderSoft-XA/C610-smarttraffic-demo/tree/master/res/Charger.jpeg )
+![charger](./res/charger.jpg )
+
+## Environment configuration
+
+### Qualcomm Neural processing SDK for AI
+
+1. Download the Neural Processing SDK from here:
+   [https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk)
+2. Git clone this project link [https://github.com/ThunderSoft-XA/C610-smarttraffic-demo2.0/](https://github.com/ThunderSoft-XA/C610-smarttraffic-demo2.0/)
+3. Move the Neural Processing SDK contents to <C610-smarttraffic-demo/snpe/>
 
 ## Complie
 
